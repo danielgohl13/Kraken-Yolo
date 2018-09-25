@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/danielgohl/Development/darknet/release/data/train.txt
+valid  = /home/danielgohl/Development/darknet/release/data/test.txt
+names = /home/danielgohl/Development/darknet/release/data/obj.names
+backup = /home/danielgohl/Development/darknet/release/data/backup
